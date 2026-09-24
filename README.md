@@ -1,54 +1,29 @@
 # Mehmet Orhun Bayrak
 
-**Software Developer | Backend & Applied AI**  
-C# / .NET · Python · Go · SQL
+**Software Developer · Backend & Applied AI**
 
-I am a Computer Engineering graduate with three software internship experiences spanning backend services, database development, and software testing. I build APIs and tools that turn unstructured information into useful workflows.
+I am a Computer Engineering graduate based in İstanbul. I work on APIs, databases, and tools that turn unstructured input into useful workflows. My current focus is C# / .NET, alongside project experience with Go and Python.
 
-My current project work focuses on C# / .NET backend development and practical AI integration. I also work with Go and Python, with an interest in data processing and computer vision.
+I am looking for junior backend and software development opportunities.
 
-I am interested in junior backend and software development roles, including opportunities to integrate AI into useful products.
+## Experience
 
-## Internship experience
+- **Teknasyon** — Backend services internship.
+- **Evant Teknoloji** — Database and feature development for internal software.
+- **ACTS Telekom** — Software development and testing internship.
 
-- **Teknasyon:** Worked on backend services.
-- **Evant Teknoloji:** Contributed to database and feature development for internal software.
-- **ACTS Telekom:** Took part in software development and testing.
+## Featured project
 
-## Selected engineering work
+### [SiparisAjani](https://github.com/Saudade01/siparis-ajani)
 
-### [SiparisAjani — Order Processing & Catalog Matching](https://github.com/Saudade01/siparis-ajani)
-A tool that converts free-text wholesale orders into catalog-matched lines and Excel output for ERP import.
+A prototype that matches free-text wholesale orders to a product catalog and produces an Excel draft for review. It includes saved corrections, personal-data masking, and an optional LLM parsing path.
 
-- **Backend architecture:** ASP.NET Core API with separate Core, Infrastructure, and Contracts projects; EF Core and SQLite for persistence.
-- **Data processing:** Rule-based parsing, confidence-based product matching, and saved corrections.
-- **AI integration:** Optional LLM parsing with personal-data masking; uncertain matches remain subject to human review.
-- **Validation:** Unit and API tests, synthetic extraction samples, and GitHub Actions CI.
-- **Interfaces:** Blazor and React / TypeScript clients using the same API.
+Built with **ASP.NET Core, EF Core, SQLite, and React / TypeScript**, with API tests and GitHub Actions. Tested with synthetic examples; customer validation and real ERP import compatibility remain unverified.
 
-The project is in field validation. The optional LLM path and ERP export compatibility still need real-world validation; current accuracy measurements use synthetic samples.
+[Code and setup](https://github.com/Saudade01/siparis-ajani#readme) · [Screenshots](https://github.com/Saudade01/siparis-ajani#screenshots)
 
-### [Banking App — Go REST API](https://github.com/Saudade01/banking-app)
-A backend learning project covering account creation, balance queries, and money transfers.
+## Earlier work
 
-- **Backend:** Go REST endpoints with MySQL persistence.
-- **API features:** Registration, login, authentication, and authorization.
-- **Engineering focus:** Account and transfer data models, API design, and database operations.
+[Banking App](https://github.com/Saudade01/banking-app) — An early Go / MySQL learning project exploring account and transfer APIs. A learning exercise, not a production banking service.
 
-## Technical focus
-
-| Area | Technologies and practices |
-| --- | --- |
-| Backend | C#, .NET, ASP.NET Core, Go, REST APIs |
-| Data | SQL, MySQL, SQLite, Entity Framework Core |
-| Applied AI | Text extraction, product matching, optional LLM integration, human review |
-| Quality & tooling | Unit and API testing, Git, Docker, GitHub Actions |
-| Supporting interfaces | Blazor, React, TypeScript |
-
-## Interests & direction
-
-- Building testable backend services and improving database design.
-- Using Python for data processing and exploring computer vision.
-- Evaluating AI features against explicit test cases and documenting their limitations.
-
-Based in İstanbul, Türkiye. You can reach me on [LinkedIn](https://www.linkedin.com/in/orhun-bayrak-2225a2286/).
+[LinkedIn](https://www.linkedin.com/in/orhun-bayrak-2225a2286/)
