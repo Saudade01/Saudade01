@@ -1,10 +1,31 @@
-Hi there, I'm Orhun👋
+# Orhun
 
-- 🚀 Software Engineering Intern at Teknasyon
-- 🌟 Passionate about Go and backend development
-- 📚 Check out my latest project: [Banking App](https://github.com/Saudade01/banking-app)
+Backend development · Go · C# / .NET
 
-![Orhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saudade01&show_icons=true&theme=radical)
+I build backend applications and tools that turn manual workflows into practical software. My projects include banking APIs in Go and order-processing tools in C# / .NET.
 
-## Featured Projects
-- [Banking App](https://github.com/Saudade01/banking-app) - A banking application with money transfer functionality
+## Selected projects
+
+### [SiparisAjani](https://github.com/Saudade01/siparis-ajani)
+Turns free-text wholesale orders into catalog-matched lines and Excel files for ERP import, with human review for uncertain matches.
+
+- **Stack:** C# / .NET, ASP.NET Core, EF Core, SQLite, Blazor, React / TypeScript
+- **Focus:** Order parsing, product matching, personal-data masking, and Excel export
+- **Status:** Field validation; real-world accuracy and ERP export compatibility are still being evaluated
+
+### [Banking App](https://github.com/Saudade01/banking-app)
+A Go backend project for account creation, balance queries, and money transfers.
+
+- **Stack:** Go, MySQL, Docker
+- **Focus:** REST APIs, authentication, authorization, and database-backed transactions
+
+## Technologies used in my projects
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Go, C#, .NET, ASP.NET Core |
+| Data | MySQL, SQLite, Entity Framework Core |
+| Interfaces | REST APIs, Blazor, React, TypeScript |
+| Tooling | Git, Docker, GitHub Actions |
+
+Based in İstanbul, Türkiye.
