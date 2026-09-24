@@ -22,12 +22,12 @@ Built with **ASP.NET Core, EF Core, SQLite, and React / TypeScript**, with API t
 
 [Code and setup](https://github.com/Saudade01/siparis-ajani#readme) · [Screenshots](https://github.com/Saudade01/siparis-ajani#screenshots)
 
-### [Mutabakat Servisi](https://github.com/Saudade01/mutabakat-servisi)
+### [LedgerMatch](https://github.com/Saudade01/ledgermatch)
 
 Compares payment records from two systems through CSV or JSON imports. Reports missing records, duplicate references, and amount mismatches while preserving every source record.
 
 Built with **ASP.NET Core, EF Core, and PostgreSQL**. Includes durable retry handling, concurrent-request tests, and a repeatable Docker demo using synthetic data.
 
-[Code and demo](https://github.com/Saudade01/mutabakat-servisi#run-the-example) · [Design decisions](https://github.com/Saudade01/mutabakat-servisi/blob/main/docs/decisions.md)
+[Code and demo](https://github.com/Saudade01/ledgermatch#run-the-example) · [Design decisions](https://github.com/Saudade01/ledgermatch/blob/main/docs/decisions.md)
 
 [LinkedIn](https://www.linkedin.com/in/orhun-bayrak-2225a2286/)
