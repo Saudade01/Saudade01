@@ -2,7 +2,7 @@
 
 **Software Developer · Backend & Applied AI**
 
-I am a Computer Engineering graduate based in İstanbul. I work on APIs, databases, and tools that turn unstructured input into useful workflows. My current focus is C# / .NET, alongside project experience with Go and Python.
+I am a Computer Engineering graduate based in İstanbul, focused on backend development with C# and .NET. I also use Python and Go in my projects.
 
 I am looking for junior backend and software development opportunities.
 
@@ -24,9 +24,9 @@ Built with **ASP.NET Core, EF Core, SQLite, and React / TypeScript**, with API t
 
 ### [LedgerMatch](https://github.com/Saudade01/ledgermatch)
 
-Compares payment records from two systems through CSV or JSON imports. Reports missing records, duplicate references, and amount mismatches while preserving every source record.
+Finds missing payments, repeated references, and amount differences between two sets of records uploaded as CSV or JSON.
 
-Built with **ASP.NET Core, EF Core, and PostgreSQL**. Includes durable retry handling, concurrent-request tests, and a repeatable Docker demo using synthetic data.
+**ASP.NET Core, EF Core, PostgreSQL.** Retrying an upload reuses the saved data; concurrent requests are covered by database integration tests. Runs locally with Docker and sample data. No live payment-provider connection yet.
 
 [Code and demo](https://github.com/Saudade01/ledgermatch#run-the-example) · [Design decisions](https://github.com/Saudade01/ledgermatch/blob/main/docs/decisions.md)
 
