@@ -1,11 +1,19 @@
-# Orhun
+# Mehmet Orhun Bayrak
 
-**Backend Development & Applied AI**  
+**Software Developer | Backend & Applied AI**  
 C# / .NET · Python · Go · SQL
 
-I build APIs and software that turn unstructured information into useful workflows. My current focus is C# / .NET backend development and practical AI integration, supported by projects in order processing and banking APIs.
+I am a Computer Engineering graduate with three software internship experiences spanning backend services, database development, and software testing. I build APIs and tools that turn unstructured information into useful workflows.
 
-I am interested in early-career software engineering opportunities involving backend systems, data processing, and applied AI.
+My current project work focuses on C# / .NET backend development and practical AI integration. I also work with Go and Python, with an interest in data processing and computer vision.
+
+I am interested in junior backend and software development roles, including opportunities to integrate AI into useful products.
+
+## Internship experience
+
+- **Teknasyon:** Worked on backend services.
+- **Evant Teknoloji:** Contributed to database and feature development for internal software.
+- **ACTS Telekom:** Took part in software development and testing.
 
 ## Selected engineering work
 
@@ -42,6 +50,5 @@ A backend learning project covering account creation, balance queries, and money
 - Building testable backend services and improving database design.
 - Using Python for data processing and exploring computer vision.
 - Evaluating AI features against explicit test cases and documenting their limitations.
-- Applying analytical thinking to financial data and systematic strategy research.
 
 Based in İstanbul, Türkiye.
