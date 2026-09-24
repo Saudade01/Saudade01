@@ -51,4 +51,4 @@ A backend learning project covering account creation, balance queries, and money
 - Using Python for data processing and exploring computer vision.
 - Evaluating AI features against explicit test cases and documenting their limitations.
 
-Based in İstanbul, Türkiye.
+Based in İstanbul, Türkiye. You can reach me on [LinkedIn](https://www.linkedin.com/in/orhun-bayrak-2225a2286/).
