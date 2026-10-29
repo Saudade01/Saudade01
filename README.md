@@ -14,6 +14,14 @@ I am looking for junior backend and software development opportunities.
 
 ## Featured projects
 
+### [menu-to-order](https://github.com/Saudade01/menu-to-order)
+
+Turns a photo of a paper menu into a QR order page that guests use from their table. An LLM reads the menu twice, and anything the two reads disagree on or that looks wrong goes to the owner to confirm before the menu is published.
+
+Built with **.NET 10, ASP.NET Core, EF Core, PostgreSQL and Gemini**, with database integration tests in GitHub Actions. Tested end to end on an iPhone with real menu photos; not yet used by a restaurant.
+
+[How it works](https://github.com/Saudade01/menu-to-order#readme) · [Accuracy on sample menus](https://github.com/Saudade01/menu-to-order#results-on-the-sample-menus)
+
 ### [SiparisAjani](https://github.com/Saudade01/siparis-ajani)
 
 A prototype that matches free-text wholesale orders to a product catalog and produces an Excel draft for review. It includes saved corrections, personal-data masking, and an optional LLM parsing path.
